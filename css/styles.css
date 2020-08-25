@@ -39,6 +39,7 @@ h3{
 }
 .middle-container{
   padding-top: 10px;
+  background-color: #cbf1f5;
 
 
 }
@@ -65,7 +66,7 @@ hr{
 a{
   color: #11999E;
 }
-.skill-row{
+.hobby-row{
   width: 50%;
   margin: 100px auto 100px auto;
   line-height: 2;
@@ -78,3 +79,14 @@ a{
   height: 200px;
   
 }
+
+.footer{
+
+  background-color: #a6e3e9;
+}
+
+.bottom{
+
+  background-color: #71c9ce;
+}
+
