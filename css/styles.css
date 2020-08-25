@@ -1,92 +1,52 @@
 body{
-  text-align: center;
-  margin: 0;
-  font-family: 'Merriweather', serif;
-
-}
-h1{
-  color: #66BFBF;
-  font-size: 562.5%;
-  margin: 50px auto 0 auto;
-  font-family: 'Sacramento', cursive;
-  bottom: 0;
+  background-color: #a3d2ca;
 }
 
-h2{
-  font-weight: normal;
-  color: #66BFBF;
-  font-size: 2.5rem;
-  font-family: 'Montserrat', sans-serif;
-
-}
-
-h3{
-  color: #11999E;
-  font-family: 'Montserrat', sans-serif;
-
-
-}
-.op{
-  margin: 0;
-  padding-top: 80px;
-  background-color: #e3fdfd;
-
-}
-
-.bottom-container{
-
-
-}
-.middle-container{
-  padding-top: 10px;
-  background-color: #cbf1f5;
-
-
-}
-.bottom-cloud{
-  position: absolute;
-  left: 300px;
-}
-.top-cloud{
-  position: absolute;
-  right: 300px;
-  top: 70px;
-}
-.mountain{
-  height: 450px;
-
+img{
+  height: 130px;
+  background-color: #a3d2ca;
 }
 hr{
+
   border-style: dotted none none;
   border-width: 5px;
-  width: 5%;
+  border-color: grey;
+  width: 7%;
+}
+h1{
+  text-decoration: underline;
+  color: #66BFCF;
+}
+h3{
+  text-decoration: underline;
+  color: #66BFCF;
+}
+#heading{
+  background-color: green;
+}
+/*a:hover{
+  color: red;
 
+}*/
+img:hover{
+
+  color: red;
+  height: 500px;
 
 }
-a{
-  color: #11999E;
+.qwerty:hover{
+  background-color: white;
+  font-size: 20px;
+  color: red;
 }
-.hobby-row{
-  width: 50%;
-  margin: 100px auto 100px auto;
-  line-height: 2;
+.zoom:hover{
+  text: 200px;
 }
-.align-text{
-  text-align: left;
+.m:hover{
+  border-color: blue;
+  border-width: 10px;
+
 }
-
-.gif{
-  height: 200px;
-  
+.raw:hover{
+  color: white
 }
-
-.footer{
-
-  background-color: #a6e3e9;
-}
-
-.bottom{
-
-  background-color: #71c9ce;
-}
-
